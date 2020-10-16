@@ -2,15 +2,15 @@
 	"_meta": {
 		"sources": [
 			{
-				"json": "5etools",
-				"abbreviation": "Brew",
-				"full": "5etools",
+				"json": "Firearms",
+				"abbreviation": "FRA",
+				"full": "zerotovarius",
 				"authors": [
-					"5etools"
+					"zerotovarius"
 				],
-				"version": "1.0.0",
+				"version": "1.0",
 				"url": "https://raw.githubusercontent.com/zerotovarius/5eTools-Homebrew/main",
-				"targetSchema": "1.0.0"
+				"targetSchema": "1.1.0"
 			}
 		],
 		"dateAdded": 1537874753,
@@ -19,16 +19,14 @@
 	"item": [
     {
         "name": "Pistola",
-        "source": "Agents of W.E.A.P.U.N.",
-        "page": "5",
         "type": "R",
-        "rarity": "none",
-		"value": 400,
-		"weight": 1.5,
-		"weaponCategory": "Simple",
-		"dmg1": "1d6",
-		"dmgType": "P",
-		"range": "30/90",
-		"reload": 10
+        "rarity": "commom",
+	"value": 400,
+	"weight": 1.5,
+	"weaponCategory": "Simple",
+	"dmg1": "1d6",
+	"dmgType": "P",
+	"range": "30/90",
+	"reload": 10
     }
 ]
