@@ -1,0 +1,168 @@
+{
+	"_meta": {
+		"sources": [
+			{
+				"json": "AoW",
+				"abbreviation": "AoW",
+				"full": "AoW",
+				"authors": [
+					"zerotovarius"
+				],
+				"convertedBy": [
+					"Tovar#1235"
+				],
+				"version": "1.0.8",
+				"url": "https://homebrewery.naturalcrit.com/share/pjcgcnyD-mq_",
+				"targetSchema": "1.0.8"
+			}
+		],
+		"dateAdded": 1549715846,
+		"dateLastModified": 1549715846
+	},
+	"item": [
+		{
+			"name": "Pistola",
+			"type": "GV",
+			"weaponCategory": "simple firearm",
+			"weight": 1.5,
+			"dmg1": "1d6",
+			"dmg2": "1d8",
+			"dmgType": "P",
+			"weapon": true,
+			"range": "30/90",
+			"rarity": "common",
+			"value": 400,
+			"source": "AoW"
+		},
+		{
+			"name": "Revólver",
+			"type": "GV",
+			"weaponCategory": "simple firearm",
+			"weight": 2,
+			"dmg1": "1d8",
+			"dmgType": "P",
+			"weapon": true,
+			"range": "40/150",
+			"rarity": "common",
+			"value": 600,
+			"source": "AoW"
+		},
+		{
+			"name": "Espingarda",
+			"type": "GV",
+			"weaponCategory": "simple firearm",
+			"weight": 7,
+			"dmg1": "2d6",
+			"dmgType": "P",
+			"weapon": true,
+			"range": "15/30/50",
+			"rarity": "common",
+			"value": 1000,
+			"source": "AoW"
+		},
+		{
+			"name": "Submetralhadora",
+			"type": "GV",
+			"weaponCategory": "simple firearm",
+			"weight": 6,
+			"dmg1": "1d6",
+			"dmgType": "P",
+			"weapon": true,
+			"range": "60/120",
+			"rarity": "common",
+			"value": 1500,
+			"source": "AoW"
+		},
+		{
+			"name": "Metralhadora",
+			"type": "GV",
+			"weaponCategory": "martial firearm",
+			"weight": 23,
+			"dmg2": "1d8",
+			"dmgType": "P",
+			"weapon": true,
+			"range": "50/500",
+			"rarity": "common",
+			"value": 6000,
+			"source": "AoW"
+		},
+		{
+			"name": "Fuzil",
+			"type": "GV",
+			"weaponCategory": "martial firearm",
+			"weight": 7.5,
+			"dmg2": "1d10",
+			"dmgType": "P",
+			"weapon": true,
+			"range": "150/500",
+			"rarity": "common",
+			"value": 12000,
+			"source": "AoW"
+		},
+		{
+			"name": "Rifle de Precisão",
+			"type": "GV",
+			"weaponCategory": "martial firearm",
+			"weight": 21,
+			"dmg2": "2d8",
+			"dmgType": "P",
+			"weapon": true,
+			"range": "100/1000/3000",
+			"rarity": "common",
+			"value": 15000,
+			"source": "AoW"
+		},
+		{
+			"name": "Granada de Fragmentação",
+			"type": "GV",
+			"weaponCategory": "exotic firearm",
+			"weight": 2,
+			"dmg2": "4d6",
+			"dmgType": "P",
+			"weapon": true,
+			"range": "35/70",
+			"rarity": "common",
+			"value": 500,
+			"source": "AoW"
+		},
+		{
+			"name": "Mina Terrestre/Aproximação",
+			"type": "GV",
+			"weaponCategory": "exotic firearm",
+			"weight": 10,
+			"dmg2": "4d8",
+			"dmgType": "O",
+			"weapon": true,
+			"rarity": "common",
+			"value": 200,
+			"source": "AoW"
+		},
+		{
+			"name": "Lança-mísseis",
+			"type": "GV",
+			"weaponCategory": "exotic firearm",
+			"weight": 19,
+			"dmg1": "6d6",
+			"dmgType": "O",
+			"weapon": true,
+			"range": "40/200",
+			"rarity": "common",
+			"value": 10000,
+			"source": "AoW"
+		},
+		{
+			"name": "Lança-chamas",
+			"type": "GV",
+			"weaponCategory": "exotic firearm",
+			"weight": 35,
+			"dmg1": "2d10",
+			"dmgType": "F",
+			"weapon": true,
+			"range": "40",
+			"rarity": "common",
+			"value": 2000,
+			"source": "AoW"
+		}
+	]
+
+}
