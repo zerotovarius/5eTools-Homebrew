@@ -28,7 +28,7 @@
 		"weapon": true,
         "rarity": "none",
 		"value": 400,
-		"weight": 1.5,
+		"weight": 1,
 		"weaponCategory": "simple",
 		"dmg1": "1d6",
 		"dmgType": "P",
