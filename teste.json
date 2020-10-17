@@ -1,0 +1,46 @@
+{
+	"_meta": {
+		"sources": [
+			{
+				"json": "AoW",
+				"abbreviation": "AoW",
+				"full": "AoW",
+				"authors": [
+					"zerotovarius"
+				],
+				"convertedBy": [
+					"Tovar#1235"
+				],
+				"version": "1.0.8",
+				"url": "https://homebrewery.naturalcrit.com/share/pjcgcnyD-mq_",
+				"targetSchema": "1.0.8"
+			}
+		],
+		"dateAdded": 1549715846,
+		"dateLastModified": 1549715846
+	},
+	"item": [
+    {
+			"name": "Crossbow, Hand, Repeating",
+			"type": "R",
+			"weaponCategory": "martial",
+			"weight": 3,
+			"dmg1": "1d6",
+			"dmgType": "P",
+			"weapon": true,
+			"property": [
+				"A",
+				"L"
+			],
+			"range": "30/120",
+			"rarity": "none",
+			"value": 65000,
+			"source": "EWaI",
+			"entries": [
+				"This crossbow has been fitted with a mechanism that allows it to be rapidly reloaded and fired in combat. This weapon does not have the loading property."
+			],
+			"ammoType": "crossbow bolt|phb"
+		}
+	]
+
+}
