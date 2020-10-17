@@ -1,0 +1,42 @@
+{
+	"_meta": {
+		"sources": [
+			{
+				"json": "AoW",
+				"abbreviation": "AoW",
+				"full": "AoW",
+				"authors": [
+					"zerotovarius"
+				],
+				"convertedBy": [
+					"Tovar#1235"
+				],
+				"version": "1.0.8",
+				"url": "https://homebrewery.naturalcrit.com/share/pjcgcnyD-mq_",
+				"targetSchema": "1.0.8"
+			}
+		],
+		"dateAdded": 1549715846,
+		"dateLastModified": 1549715846
+	},
+	"item": [
+    {
+        "name": "Pistola",
+        "source": "AoW",
+        "page": "5",
+        "type": "R",
+        "rarity": "none",
+		"value": 400,
+		"weight": 1,
+		"weaponCategory": "simple",
+		"dmg1": "1d6",
+		"dmgType": "P",
+		"property": [
+				"L"
+			],
+		"range": "30/90",
+		"reload": 10,
+    }
+	]
+
+}
