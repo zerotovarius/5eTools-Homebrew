@@ -1,0 +1,47 @@
+{
+
+	"_meta": {
+		"sources": [
+			{
+				"json": "Agents of Weapun Firearms",
+				"abbreviation": "AoWF",
+				"full": "Agents of Weapun Firearms",
+				"authors": [
+					"zerotovarius"
+				],
+				"convertedBy": [
+					"zerotovarius"
+				],
+				"url": "https://homebrewery.naturalcrit.com/share/pjcgcnyD-mq_",
+				"version": "1.1",
+				"targetSchema": "1.0.0"
+			}
+		],
+		"dateAdded": 1537874753,
+		"dateLastModified": 1537874753
+	},
+	"item": [
+    {
+			"name": "Bladed Gauntlet",
+			"type": "M",
+			"weapon": true,
+			"weaponCategory": "exotic",
+			"rarity": "none",
+			"value": 3000,
+			"weight": 4,
+			"dmg1": "1d6",
+			"dmgType": "S",
+			"entries": [
+				{
+					"type": "entries",
+					"name": "Special",
+					"entries": [
+						"This weapon does not require a free hand."
+					]
+				}
+			],
+			"source": "EW"
+		}
+]
+
+}
